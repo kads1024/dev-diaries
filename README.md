@@ -1,0 +1,1 @@
+A repository containing logs of my works as a dev
